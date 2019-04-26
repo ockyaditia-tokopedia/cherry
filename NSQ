@@ -1,0 +1,12 @@
+- Server-side
+Nsqd
+Nsqlookupd
+
+- Application-side
+Producer
+Consumer
+
+- 
+Message
+Topic
+Channel
