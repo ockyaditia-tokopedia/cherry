@@ -1,0 +1,10 @@
+master -> new_branch (f/i/mc/b_name_featurename) -> PR from new_branch to staging -> merge without resolve conflict
+
+JIKA ADA CONFLICT
+
+-> new_branch -> new_branch_conflict (mc_stag_f/i/mc/b_name_featurename) -> staging -> merge with resolve conflict
+
+LALU NAIK UNTUK QA TEST
+JIKA SUDAH
+
+PR from new_branch to master
